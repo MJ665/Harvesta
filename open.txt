@@ -1,0 +1,48 @@
+<div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Wheat</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Rice</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Mung dal</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Urad dal</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Chana dal</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Moonga Phalee</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Jawar</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Bajra</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Potato</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Onion</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Tomato</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Sugar</label>
+        <input class="form-control" id="exampleInputPassword1" placeholder="Enter Todays Market Price ₹">
+        </div>
