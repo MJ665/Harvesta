@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <STYLE>
+        input[type=text],
+        [type=PASSWORD] {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        .login-container {
+            padding-top: 2%;
+            padding-bottom: 2%;
+            text-align: center;
+            background-color: #f2f2f2;
+            margin-top: 15%;
+            margin-left: 35%;
+            border: 3px solid #73AD21;
+            width: 500px;
+        }
+
+        .button {
+            background-color: #4CAF50;
+            /* Green */
+            border: none;
+            color: white;
+            padding: 16px 32px;
+            text-align: center;
+            font-size: 12px;
+            margin-left: 2px;
+            transition-duration: 0.4s;
+
+            cursor: pointer;
+        }
+
+        .button1 {
+            background-color: white;
+            color: black;
+            border: 2px solid #4CAF50;
+        }
+
+        .button1:hover {
+            background-color: #79b07b;
+            /* Green */
+            border-radius: 6px;
+            color: white;
+            font-size: 15px;
+        }
+
+        #loginpage {
+            font-size: 20px;
+
+        }
+
+        .topweb {
+
+            background-color: #121312;
+            /* Green */
+            /* display: inline; */
+
+            padding-top: 3px;
+            padding-bottom: 3px;
+            color: rgb(208, 244, 232);
+            display: 'block'
+
+        }
+
+        #head {
+            display: inline;
+            margin-bottom: 30px;
+        }
+
+        body {
+            background-color: #030932;
+            /* Green */
+        }
+    </STYLE>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="http://localhost:8088/Javascript/script.js">
+        
+
+    </script>
+</head>
+
+<body>
+
+
+    <div class="login-container">
+
+        <div id="loginpage">
+            <h3>LOGIN PAGE</h3>
+        </div>
+        <!-- <form action=""> -->
+            <input type="text" id="adminEmail" name="adminEmail" placeholder="Email" />
+            <input type="PASSWORD" id="adminPassword" name="adminPassword" placeholder="Password" />
+            <br />
+            <button name="submit" class="button button1" type="submit" onclick="submitData()"
+                value="submit">submit</button>
+        <!-- </form> -->
+
+    </div>
+
+</body>
+
+</html>
